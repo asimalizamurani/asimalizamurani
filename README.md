@@ -38,6 +38,10 @@ src="https://img.shields.io/github/followers/asimalizamurani?logo=github&style=f
 ### 📊 GitHub Activity Graph:
 [![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asimalizamurani&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### ⚡ GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=asimalizamurani&show_icons=true&theme=radical)
+
+
 <a href="https://github.com/asimalizamurani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimalizamurani&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
