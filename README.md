@@ -8,7 +8,7 @@ Hello! I am a passionate Full Stack Web Developer with 2 years of experience bui
 
 * 🌍  I'm based in Karachi
 * ✉️  You can contact me at [asimalizamurani@gmail.com](mailto:asimalizamurani@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Projects
 * ⚡  💼 Open for collaboration: I'm always eager to work on interesting projects, especially in web development, open-source contributions, or freelance opportunities. Let's build something awesome together!
 
